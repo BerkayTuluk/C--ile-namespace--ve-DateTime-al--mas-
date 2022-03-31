@@ -1,0 +1,11 @@
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\bin\Debug\TekrarVeCalismalar(31.03.2022).exe.config
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\bin\Debug\TekrarVeCalismalar(31.03.2022).exe
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\bin\Debug\TekrarVeCalismalar(31.03.2022).pdb
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar(31.03.2022).csproj.AssemblyReference.cache
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar(31.03.2022).csproj.SuggestedBindingRedirects.cache
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar_31._03._2022_.Form1.resources
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar_31._03._2022_.Properties.Resources.resources
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar(31.03.2022).csproj.GenerateResource.cache
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar(31.03.2022).csproj.CoreCompileInputs.cache
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar(31.03.2022).exe
+C:\YAZILIMDERSLERİM\C# KURSU\OKUL\Görsel Programlama1\DERSLER\Çalışmalar\TekrarVeCalismalar(31.03.2022)\TekrarVeCalismalar(31.03.2022)\obj\Debug\TekrarVeCalismalar(31.03.2022).pdb
